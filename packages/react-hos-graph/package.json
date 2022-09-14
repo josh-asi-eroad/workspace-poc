@@ -1,0 +1,11 @@
+{
+  "name": "@myeroad/react-hos-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test react-hos-graph"
+  },
+  "author": "",
+  "license": "ISC"
+}

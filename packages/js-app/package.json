@@ -1,0 +1,11 @@
+{
+  "name": "@myeroad/js-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo test js-app"
+  },
+  "author": "",
+  "license": "ISC"
+}

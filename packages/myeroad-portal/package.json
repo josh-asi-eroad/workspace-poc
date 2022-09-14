@@ -1,0 +1,12 @@
+{
+  "name": "@myeroad/myeroad-portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo test myeroad-portal",
+    "start": "webpack-dev-server --open --mode development --hot --config config/webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
